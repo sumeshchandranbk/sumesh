@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Jerry file
+=======
+Git Repository
+>>>>>>> 9eaab06d68ee7f6914ff36cbf902706f6b015db3
 smething
